@@ -2,5 +2,3 @@ VS Code has syntax for working with repositories
 M stands for Modified
 U stands for Untracked
 Mouse Over the Letter next to the file to see what state
-
-same problem here
