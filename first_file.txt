@@ -1,2 +1,4 @@
 This is my first git file
 This line will upload to git
+
+for some reason it committed but didn't show on the server
